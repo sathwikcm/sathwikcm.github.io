@@ -1,3 +1,3 @@
-# sathwikcm.github.io Repo
+# Personal Websiter Repository
 
 This is the repository for sathwikcm.github.io 
