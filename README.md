@@ -1,3 +1,3 @@
-# Personal Website Repository
+# site repository
 
 This is the repository for sathwikcm.github.io 
